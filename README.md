@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This dashboard was developed to give insgight into the economic performance of South Africa. A range of indicators were selected and it it split monthly, 
+This dashboard was developed to give insight into the economic performance of South Africa. A range of indicators were selected and it it split monthly, 
 quarterly and annually to showcase the change in time. 
 
 ## Current FY 
